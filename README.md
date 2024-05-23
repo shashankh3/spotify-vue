@@ -18,6 +18,6 @@ REQUIREMENTS-
 
 • installing json server: npm install -g json-server
   
-• watching json server: json-server --watch db.json
+• watching json server: json-server --watch db.json or npx json-server db.json
 
-• to run this project use -npm run serve or use -vue ui commands inside terminal.
+• to run this project use "vue ui" command inside terminal.
