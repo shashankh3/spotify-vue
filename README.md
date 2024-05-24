@@ -21,3 +21,5 @@ REQUIREMENTS-
 • watching json server: json-server --watch db.json or npx json-server db.json
 
 • to run this project use "vue ui" command inside terminal.
+• import project from vue ui > import anyway .
+• navigate localhostxxxx/admin.
