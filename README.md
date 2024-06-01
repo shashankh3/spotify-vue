@@ -25,3 +25,5 @@ REQUIREMENTS-
 • import project from vue ui > import anyway.
 
 • navigate localhostxxxx/admin.
+ 
+ Last updated- 1.06.2024
