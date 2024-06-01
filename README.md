@@ -27,5 +27,6 @@ REQUIREMENTS-
 • navigate localhostxxxx/admin.
  
  Last updated- 1.06.2024
-  -added background imageto home page 
+  -added background image to home page.
+  
   -added a button on main page that routes to admin page.
