@@ -1,4 +1,4 @@
-# spotify-vue
+ # spotify-vue
 SPOTIFY | spotify clone webapp
 
 • Made a spotify clone using Vue.js.
@@ -10,23 +10,24 @@ server.
 
 
 
-REQUIREMENTS-
+    REQUIREMENTS-
 
-•Node.js
+     •Node.js
 
-• Vue cli plugin
+    • Vue cli plugin
 
-• installing json server: npm install -g json-server
+    • installing json server: npm install -g json-server
   
-• watching json server: json-server --watch db.json or npx json-server db.json
+    • watching json server: json-server --watch db.json or npx json-server db.json
 
-• to run this project use "vue ui" command inside terminal.
+    • to run this project use "vue ui" command inside terminal.
 
-• import project from vue ui > import anyway.
+    • import project from vue ui > import anyway.
 
-• navigate localhostxxxx/admin.
+    • navigate localhostxxxx/admin.
  
- Last updated- 1.06.2024
+   Last updated- 1.06.2024
+   
   -added background image to home page.
   
   -added a button on main page that routes to admin page.
